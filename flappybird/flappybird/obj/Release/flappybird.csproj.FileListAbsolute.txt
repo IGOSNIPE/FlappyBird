@@ -1,0 +1,12 @@
+C:\Users\igiig\Documents\C# Projekty\fb\flappybird\flappybird\bin\Release\flappybird.exe.config
+C:\Users\igiig\Documents\C# Projekty\fb\flappybird\flappybird\bin\Release\flappybird.exe
+C:\Users\igiig\Documents\C# Projekty\fb\flappybird\flappybird\bin\Release\flappybird.pdb
+C:\Users\igiig\Documents\C# Projekty\fb\flappybird\flappybird\bin\Release\sfmlnet-audio-2.dll
+C:\Users\igiig\Documents\C# Projekty\fb\flappybird\flappybird\bin\Release\sfmlnet-graphics-2.dll
+C:\Users\igiig\Documents\C# Projekty\fb\flappybird\flappybird\bin\Release\sfmlnet-window-2.dll
+C:\Users\igiig\Documents\C# Projekty\fb\flappybird\flappybird\obj\Release\flappybird.csproj.CoreCompileInputs.cache
+C:\Users\igiig\Documents\C# Projekty\fb\flappybird\flappybird\obj\Release\flappybird.csproj.CopyComplete
+C:\Users\igiig\Documents\C# Projekty\fb\flappybird\flappybird\obj\Release\flappybird.exe
+C:\Users\igiig\Documents\C# Projekty\fb\flappybird\flappybird\obj\Release\flappybird.pdb
+C:\Users\igiig\Documents\C# Projekty\fb\flappybird\flappybird\bin\Release\sfmlnet-system-2.dll
+C:\Users\igiig\Documents\C# Projekty\fb\flappybird\flappybird\obj\Release\flappybird.csprojAssemblyReference.cache

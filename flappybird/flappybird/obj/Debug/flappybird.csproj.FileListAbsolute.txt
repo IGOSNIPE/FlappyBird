@@ -1,0 +1,9 @@
+C:\Users\igiig\Documents\C# Projekty\fb\flappybird\flappybird\bin\Debug\flappybird.exe.config
+C:\Users\igiig\Documents\C# Projekty\fb\flappybird\flappybird\bin\Debug\flappybird.exe
+C:\Users\igiig\Documents\C# Projekty\fb\flappybird\flappybird\bin\Debug\flappybird.pdb
+C:\Users\igiig\Documents\C# Projekty\fb\flappybird\flappybird\obj\Debug\flappybird.csprojAssemblyReference.cache
+C:\Users\igiig\Documents\C# Projekty\fb\flappybird\flappybird\obj\Debug\flappybird.csproj.CoreCompileInputs.cache
+C:\Users\igiig\Documents\C# Projekty\fb\flappybird\flappybird\obj\Debug\flappybird.csproj.CopyComplete
+C:\Users\igiig\Documents\C# Projekty\fb\flappybird\flappybird\obj\Debug\flappybird.exe
+C:\Users\igiig\Documents\C# Projekty\fb\flappybird\flappybird\obj\Debug\flappybird.pdb
+C:\Users\igiig\Documents\C# Projekty\fb\flappybird\flappybird\bin\Debug\SFML.Portable.dll
